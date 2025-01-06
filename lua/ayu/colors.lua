@@ -25,7 +25,7 @@ function colors.generate(mirage)
       colors.keyword = '#FFAD66'
       colors.special = '#FFDFB3'
       colors.comment = '#6C7A8B'
-      colors.constant = '#DFBFFF'
+      colors.constant = '#FF4BFF'
       colors.operator = '#F29E74'
       colors.error = '#FF6666'
       colors.lsp_parameter = '#D3B8F9'
